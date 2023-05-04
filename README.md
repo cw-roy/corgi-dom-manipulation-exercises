@@ -3,7 +3,7 @@
 * ~~[#1](exercises/1)~~
 * ~~[#2](exercises/2)~~
 * ~~[#3](exercises/3)~~
-* [#4](exercises/4)
+* ~~[#4](exercises/4)~~
 * [#5](exercises/5)
 * [#6](exercises/6)
 * [#7](exercises/7)
